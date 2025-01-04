@@ -1,1 +1,6 @@
 .venv
+research_functions
+test_mongo_db.py
+Network_Data
+logs
+.env
