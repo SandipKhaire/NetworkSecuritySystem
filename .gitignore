@@ -5,3 +5,4 @@ Network_Data
 logs
 .env
 Artifacts
+.DS_Store
