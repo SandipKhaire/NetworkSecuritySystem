@@ -6,3 +6,6 @@ logs
 .env
 Artifacts
 .DS_Store
+final_model
+my_package.egg-info
+
